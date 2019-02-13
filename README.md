@@ -72,6 +72,7 @@ Bitbucket is a direct competitor service to github... they are crazy similar. At
 You probably won't need anything in Migrating to Git and you can probably hold off on the Advanced stuff.
 
 Atlassian also makes the "free" Source Tree git GUI
+
 What I feel is better is git Tower for Mac, but it is not free
 
 
